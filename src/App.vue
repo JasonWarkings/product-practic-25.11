@@ -28,6 +28,21 @@
         </div>
       </div>
     </div>
+    <div class="row row-cols-1 row-cols-md-2 mt-4">
+  <div class="col">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">HP</h5>
+        <p class="card-text">$1000</p>
+        <p class="card-text">x10</p>
+        <p class="card-text">25.11.2024</p>
+      </div>
+      <div class="card-footer">
+        <button class="btn btn-outline-danger">Удалить</button>
+      </div>
+    </div>
+  </div>
+</div>
   </div>
 </template>
 
